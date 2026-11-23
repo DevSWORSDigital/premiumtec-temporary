@@ -1,0 +1,14 @@
+
+# PremiumTec Aviation
+
+> Empresa de manutenção aeronáutica, assessoria técnica e serviços operacionais para aviação executiva, localizada no Aeroporto de Maringá, Paraná, Brasil.
+
+## Páginas institucionais
+
+- [Página inicial](https://www.premiumtec.aero/): Apresentação institucional e principais serviços.
+- [Manutenção aeronáutica](https://www.premiumtec.aero/manutencao/): Informações sobre inspeções e serviços de manutenção.
+- [Assessoria aeronáutica](https://www.premiumtec.aero/assessoria/): Planejamento, documentação e acompanhamento técnico.
+- [Serviços operacionais](https://www.premiumtec.aero/servicos/): Apoio às operações de aviação executiva.
+- [Sobre a PremiumTec](https://www.premiumtec.aero/sobre/): História, estrutura e informações institucionais.
+- [Contato](https://www.premiumtec.aero/contato/): Canais de atendimento e localização.
+- [Solicitar orçamento](https://www.premiumtec.aero/orcamento/): Solicitação de atendimento e orçamento.
